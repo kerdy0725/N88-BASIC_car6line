@@ -1,6 +1,8 @@
 # N88-BASIC_car6line
 N88BASICで作った6行のカーレースゲーム
 
+
+
 ## 動作環境
  * N88互換BASIC for Windows95 1.10
  * Windwos11で動作確認しました。
